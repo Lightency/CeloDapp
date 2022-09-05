@@ -1,0 +1,16 @@
+.proposals{
+  display: flex;
+    flex-wrap: wrap;
+    margin-top: 1em;
+    gap: 1em;
+    justify-content: space-evenly;
+}
+.card{
+  width: 23em;
+  height: fit-content;
+}
+
+.cardbody {
+  display: grid;
+  justify-content: space-around;
+}

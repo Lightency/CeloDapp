@@ -1,0 +1,53 @@
+.WalletHeader{
+    color: #413434;
+    border: 0;
+    display:grid;
+    justify-content:center;
+    background: linear-gradient(45deg, #FEBE10 30%, #F0E68C 90%);
+    box-shadow: 0 3px 5px 2px rgb(250 250 0 / 30%);
+    border-radius: 3px;}
+.AccountData{
+  height:250px;
+
+}
+.Balances{
+    background-color: #212529;
+    border-style: inset;
+    border-color: black;
+    border-radius: 10px;
+    color: white;
+    display: grid;
+    align-content: space-around;
+    justify-items: start;
+
+}
+.Vesting{
+    background-color: #212529;
+    border-style: inset;
+    border-color: black;
+    border-radius: 10px;
+    color: white;
+}
+#VestingSection{
+    background-color: #212529;
+    border-style: inset;
+    border-color: black;
+    border-radius: 10px;
+    color: white;
+    height: 100%;
+
+}
+.schedule{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.schedule h5{
+    color:#FEBE10;
+
+}
+
+#chart{
+    width:50%;
+}

@@ -1,0 +1,12 @@
+html,body{
+    margin : 0;
+    height: 100%;
+    background-color: #aea388;
+}
+
+.content{
+    margin-left:15%;
+    width:85%;
+    display:grid;
+    justify-items: center;
+}
