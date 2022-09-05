@@ -1,0 +1,22 @@
+{
+  "name": "celodapp",
+  "version": "1.0.0",
+  "description": "Lightency Dapp on Celo EVM",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lightency/CeloDapp.git"
+  },
+  "author": "Dhifallah Oussema",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lightency/CeloDapp/issues"
+  },
+  "homepage": "https://github.com/Lightency/CeloDapp#readme"
+}
